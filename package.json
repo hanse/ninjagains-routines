@@ -1,0 +1,13 @@
+{
+  "name": "@ninjagains/routines",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hanse",
+  "license": "MIT",
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
